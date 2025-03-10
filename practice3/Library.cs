@@ -5,20 +5,16 @@ namespace books
 {
     class Library
     {
-        List<string> Book;
+        List<Book> Books;
 
-        public string AddBook(Book book)
+        public void AddBook(Book book)
         {
-            Book.Add(book);
+            Books.Add(book);
         }
 
-        public void GetExpensiveBooks(int price)    
+        public List<Book> GetExpensiveBooks(List<Books> books)    
         {
-            var filteredBooks = Book.Where(n => n >= 1000);
-            foreach(var num in filteredBooks)
-            {
-                Console.WriteLine(num);
-            }
+            return books.Where(book => book.Price >= 1000).ToList();
         }
     }
 }

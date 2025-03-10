@@ -1,0 +1,5 @@
+C:\Users\16410\OneDrive\ドキュメント\Program\C#return\practice3\obj\Debug\net9.0\practice3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16410\OneDrive\ドキュメント\Program\C#return\practice3\obj\Debug\net9.0\practice3.AssemblyInfoInputs.cache
+C:\Users\16410\OneDrive\ドキュメント\Program\C#return\practice3\obj\Debug\net9.0\practice3.AssemblyInfo.cs
+C:\Users\16410\OneDrive\ドキュメント\Program\C#return\practice3\obj\Debug\net9.0\practice3.csproj.CoreCompileInputs.cache
+C:\Users\16410\OneDrive\ドキュメント\Program\C#return\practice3\obj\Debug\net9.0\practice3.sourcelink.json
